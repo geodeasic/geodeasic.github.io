@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aAmKthSj8GL52MWUipjkUFL87MZjKspJoNaDMspyPDISkq5fy7A1B7j3hYNxaIRi2P25WYJUjxRp67zszb8yog==",
+  "dgSpecHash": "ILlEAXhZvAGh1wJE3pf17yIdPYe8hij0iD/qUZ+m8ZaDAP8vg5M2T34lGNY9M6MWXxDOIpYf4Fnz55E3ZhmCvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vince\\source\\repos\\geodeasic.github.io\\geodeasic.github.io.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,7 @@
     "C:\\Users\\vince\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512",
     "C:\\Users\\vince\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\vince\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\vince\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\vince\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.2.nupkg.sha512"
+    "C:\\Users\\vince\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
